@@ -2,7 +2,7 @@
   "name": "brendalong",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brendalong.github.io",
+  "homepage": "http://brendalong.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",

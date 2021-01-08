@@ -1,1 +1,1 @@
-# Deploy on Github pages v3
+# Deploy on Github Pages
