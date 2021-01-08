@@ -1,0 +1,2 @@
+(this.webpackJsonpbrendalong=this.webpackJsonpbrendalong||[]).push([[0],{10:function(n,e,t){},11:function(n,e,t){"use strict";t.r(e);var c=t(0),r=t(1),i=t.n(r),s=t(3),o=t.n(s);t(9),t(10);var a=function(){return Object(c.jsx)("div",{className:"App",children:Object(c.jsx)("h2",{children:"Brenda's Github.io"})})};o.a.render(Object(c.jsx)(i.a.StrictMode,{children:Object(c.jsx)(a,{})}),document.getElementById("root"))},9:function(n,e,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.3338d539.chunk.js.map
